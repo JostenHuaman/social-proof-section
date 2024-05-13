@@ -22,7 +22,6 @@ body{
 
 .container{
     background-color: var(--White);
-    border:1px solid red;
     & h1{
         font-size: 2em;
         margin: 0px 40px;
